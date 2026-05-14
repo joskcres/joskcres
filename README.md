@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-Soy alguine apasionado por la tecnología, el desarrollo web y el diseño de interfaces modernas. Me gusta crear proyectos con HTML, CSS y JavaScript, además de aprender nuevas herramientas para mejorar mis habilidades como programador.
+Soy alguien apasionado por la tecnología, el desarrollo web y el diseño de interfaces modernas. Me gusta crear proyectos con HTML, CSS y JavaScript, además de aprender nuevas herramientas para mejorar mis habilidades como programador.
 
     🚀 Innovación digital: siempre buscando aprender algo nuevo y convertir ideas en proyectos reales.
 
