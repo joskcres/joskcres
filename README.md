@@ -1,6 +1,7 @@
 ## Hola, soy Josué Cáceres 👋
 
-Soy alguine apasionado por la tecnología, el desarrollo web y el diseño de interfaces modernas. Me gusta crear proyectos con HTML, CSS y JavaScript, además de aprender nuevas herramientas para mejorar mis habilidades como programador.
+## Sobre mi
+Soy alguien apasionado por la tecnología, el desarrollo web y el diseño de interfaces modernas. Me gusta crear proyectos con HTML, CSS y JavaScript, además de aprender nuevas herramientas para mejorar mis habilidades como programador.
 
     🚀 Innovación digital: siempre buscando aprender algo nuevo y convertir ideas en proyectos reales.
 
@@ -30,7 +31,7 @@ Aprender lo necesario para convertirme en un desarrollador full stack para crear
 
 ## ⚽Hobies
 
-Futbol, Programación y Matématicasç
+Futbol, Programación y Matématicas
 
 
 ## 📫Contactos
