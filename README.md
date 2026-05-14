@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hola, soy Josué Cáceres 👋
 
-<!--
-**joskcres/joskcres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy alguine apasionado por la tecnología, el desarrollo web y el diseño de interfaces modernas. Me gusta crear proyectos con HTML, CSS y JavaScript, además de aprender nuevas herramientas para mejorar mis habilidades como programador.
 
-Here are some ideas to get you started:
+    🚀 Innovación digital: siempre buscando aprender algo nuevo y convertir ideas en proyectos reales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    ⚽ Pasión personal:  las matemáticas y la creatividad aplicada.
+
+    🔍 Pensamiento crítico: capacidad para analizar problemas y proponer soluciones eficientes.
+
+    🤝 Colaboración: creo en el intercambio de ideas como motor de crecimiento.
+
+   ## 🛠️ Tecnologías
+
+Estas son las herramientas y lenguajes que utilizo y en los que sigo profundizando:
+
+    🌐 HTML – estructura semántica y accesible para la web.
+
+    🎨 CSS – estilos modernos y responsivos.
+
+    🖼️ Bootstrap – diseño ágil con componentes reutilizables.
+
+    🚀 Aprendizaje continuo – explorando nuevas librerías y frameworks para mejorar mis proyectos.
