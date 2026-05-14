@@ -25,7 +25,7 @@ Estas son las herramientas y lenguajes que utilizo y en los que sigo profundizan
 
 ## 🎯 Objetivos
 
-Aprender lo necesario para convertirme en un desarrollador full stack paraq hacer proyectos utiles y funcionales
+Aprender lo necesario para convertirme en un desarrollador full stack para crear proyectos utiles y funcionales
 
 
 ## ⚽Hobies
